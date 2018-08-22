@@ -1,0 +1,5 @@
+apples 5.50 6.00
+oranges 3.25 4.00
+grapes 4.75 7.00
+bananas 8.10 10.00
+candy 1.75 2.25
